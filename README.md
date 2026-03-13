@@ -121,4 +121,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Proxy support
 - Anti-detection
 - Multi-language support
-- (I didn't make it, MB)
+  
+- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑(I didn't make it, MB)
